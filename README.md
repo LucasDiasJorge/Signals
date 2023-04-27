@@ -5,4 +5,4 @@ Para manipular sinais de processos em C, é necessário utilizar a biblioteca pa
 Em Java, a manipulação de sinais de processos é realizada através da classe ProcessBuilder e da classe Process. Na "main.java" segue um exemplo de como criar um processo em Java e enviar sinais para ele;
 
 # Manipulação de sinais de processos em Python
-Para manipular sinais de processos em Python, é necessário utilizar o módulo signal. Na "main.py" segue um exemplo de como criar um processo em Python e enviar sinais para ele:
+Para manipular sinais de processos em Python, é necessário utilizar o módulo signal. Na "main.py" segue um exemplo de como criar um processo em Python e enviar sinais para ele.
